@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Teclado Mecânico RGB",
+        "preco": 350,
+        "descricao": "Teclado robusto, switch blue",
+        "quantidade": 15
+    },
+    {
+        "nome": "Mouse Gamer 7200 DPI",
+        "preco": 120,
+        "descricao": "Mouse ergonômico com luz RGB",
+        "quantidade": 30
+    },
+    {
+        "nome": "Monitor 144Hz Full HD",
+        "preco": 1500,
+        "descricao": "Tela rápida ideal para jogos",
+        "quantidade": 8
+    }
+]
